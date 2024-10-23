@@ -1,0 +1,4 @@
+av==13.1.0 # for audio/video stream processing
+click==8.1.7  # CLI
+numpy==2.1.2  # for image processing
+smart-open[s3]==7.0.5  # for S3 streaming
